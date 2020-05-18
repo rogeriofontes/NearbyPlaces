@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NearbyPlaces</string>
+    <string name="radio_atm">Caixa 24 Horas</string>
+    <string name="radio_lottery">Lotericas</string>
+</resources>
